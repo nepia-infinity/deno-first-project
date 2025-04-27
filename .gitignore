@@ -16,3 +16,6 @@ package
 # — デフォルトで生成したアイコン（不要であれば）
 assets/default_new_app_icon.png
 
+# VSCode Dev Container 設定を無視
+.devcontainer/
+
