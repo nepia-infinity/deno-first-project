@@ -2,3 +2,17 @@ dist
 package
 .DS_Store
 .slack/apps.dev.json
+
+# — Slack CLI 配布バイナリまるごと除外
+/slack_cli_3.0.5_windows_64-bit/
+
+# — Slack CLI が生成する状態フォルダ／ファイル
+/.slack/
+/**/.slack/
+
+# — VSCode ワークスペース設定
+.vscode/
+
+# — デフォルトで生成したアイコン（不要であれば）
+assets/default_new_app_icon.png
+
