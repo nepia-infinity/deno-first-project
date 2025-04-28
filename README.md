@@ -31,6 +31,7 @@ slack dev -a A08PCN4KG87
 ```
 
 #　関連リンク
+- [YouTubeビデオまとめ](https://share.evernote.com/note/905d2448-cdfb-545f-cd0d-8fcba34acd24)
 - [Automation Overview](https://api.slack.com/automation)
 - [workflow](https://api.slack.com/automation/workflows)
 - [Triggers](https://api.slack.com/automation/triggers)
